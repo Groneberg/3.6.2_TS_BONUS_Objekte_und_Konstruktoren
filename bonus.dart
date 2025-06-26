@@ -124,12 +124,12 @@ void main() {
   Buch buch3 = Buch('Shining', 447, autor1);
 
   print(
-    "Das Buch heißt ${buch1.bookTitle} von ${buch1.autor.name}. Es hat ${buch1.pages}.",
+    "Das Buch heißt ${buch1.bookTitle} von ${buch1.autor.name}. Es hat ${buch1.pages} Seiten.",
   );
   print(
-    "Das Buch heißt ${buch2.bookTitle} von ${buch2.autor.name}. Es hat ${buch2.pages}.",
+    "Das Buch heißt ${buch2.bookTitle} von ${buch2.autor.name}. Es hat ${buch2.pages} Seiten.",
   );
   print(
-    "Das Buch heißt ${buch3.bookTitle} von ${buch3.autor.name}. Es hat ${buch3.pages}.",
+    "Das Buch heißt ${buch3.bookTitle} von ${buch3.autor.name}. Es hat ${buch3.pages} Seiten.",
   );
 }
