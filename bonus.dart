@@ -95,24 +95,24 @@ void main() {
   // Bonus Task 5
   Rectangle rect2 = Rectangle(5, 6);
   print(
-    "Bei einem x von ${rect2.x} und y von ${rect2.y} die Fläche ist: ${rect2.getSurfaceArea()}",
+    "Bei einem x von ${rect2.x} und y von ${rect2.y} ist die Fläche: ${rect2.getSurfaceArea()}",
   );
   print(
-    "Bei einem x von ${rect2.x} und y von ${rect2.y} der Umfang ist: ${rect2.getCircumference()}",
+    "Bei einem x von ${rect2.x} und y von ${rect2.y} ist der Umfang: ${rect2.getCircumference()}",
   );
   rect2.scale(0.5);
   print(
-    "Bei einem x von ${rect2.x} und y von ${rect2.y} die Fläche ist: ${rect2.getSurfaceArea()}",
+    "Bei einem x von ${rect2.x} und y von ${rect2.y} ist die Fläche: ${rect2.getSurfaceArea()}",
   );
   print(
-    "Bei einem x von ${rect2.x} und y von ${rect2.y} der Umfang ist: ${rect2.getCircumference()}",
+    "Bei einem x von ${rect2.x} und y von ${rect2.y} ist der Umfang: ${rect2.getCircumference()}",
   );
   rect2.scale(4);
   print(
-    "Bei einem x von ${rect2.x} und y von ${rect2.y} die Fläche ist: ${rect2.getSurfaceArea()}",
+    "Bei einem x von ${rect2.x} und y von ${rect2.y} ist die Fläche: ${rect2.getSurfaceArea()}",
   );
   print(
-    "Bei einem x von ${rect2.x} und y von ${rect2.y} der Umfang ist: ${rect2.getCircumference()}",
+    "Bei einem x von ${rect2.x} und y von ${rect2.y} ist der Umfang: ${rect2.getCircumference()}",
   );
 
   // Bonus Task 6
