@@ -79,17 +79,17 @@ void main() {
   // Bonus Task 4
   Rectangle rect = Rectangle(10, 20);
   print(
-    "Bei einem x von ${rect.x} und y von ${rect.y} die Fläche ist: ${rect.getSurfaceArea()}",
+    "Bei einem x von ${rect.x} und y von ${rect.y} ist die Fläche: ${rect.getSurfaceArea()}",
   );
   print(
-    "Bei einem x von ${rect.x} und y von ${rect.y} der Umfang ist: ${rect.getCircumference()}",
+    "Bei einem x von ${rect.x} und y von ${rect.y} ist der Umfang: ${rect.getCircumference()}",
   );
   rect.x = 20;
   print(
-    "Bei einem x von ${rect.x} und y von ${rect.y} die Fläche ist: ${rect.getSurfaceArea()}",
+    "Bei einem x von ${rect.x} und y von ${rect.y} ist die Fläche: ${rect.getSurfaceArea()}",
   );
   print(
-    "Bei einem x von ${rect.x} und y von ${rect.y} der Umfang ist: ${rect.getCircumference()}",
+    "Bei einem x von ${rect.x} und y von ${rect.y} ist der Umfang: ${rect.getCircumference()}",
   );
 
   // Bonus Task 5
